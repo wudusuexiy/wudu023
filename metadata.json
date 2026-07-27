@@ -1,0 +1,6 @@
+{
+  "name": "Dark Portfolio",
+  "description": "A sleek, responsive dark-themed personal portfolio with interactive project cards, skills overview, and contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
